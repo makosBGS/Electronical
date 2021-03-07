@@ -1,6 +1,3361 @@
 {
   "kind": "blogger#postList",
   "items": [
+    
+    {
+      "kind": "blogger#post",
+      "id": "3398396846264513163",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T04:43:00-08:00",
+      "updated": "2021-03-07T04:43:35-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/electronic-color-code.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3398396846264513163",
+      "title": "electronic color code",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3398396846264513163/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTIxMDE1NTY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2502527621649552510",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T04:40:00-08:00",
+      "updated": "2021-03-07T04:40:17-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/4000-series.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2502527621649552510",
+      "title": "4000 series",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2502527621649552510/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTIwODE3MTU3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3796654911317060163",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T04:38:00-08:00",
+      "updated": "2021-03-07T04:38:42-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/7400-series.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3796654911317060163",
+      "title": "7400 series",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3796654911317060163/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTIwNzIyMzUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8578398211417355484",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T04:36:00-08:00",
+      "updated": "2021-03-07T04:36:53-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/555-timer-ic.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8578398211417355484",
+      "title": "555 timer IC",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8578398211417355484/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTIwNjEzMDY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "524265770768599322",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T04:17:00-08:00",
+      "updated": "2021-03-07T04:17:20-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/buck-converter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/524265770768599322",
+      "title": "buck converter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/524265770768599322/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE5NDQwMzA0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6498649853119170535",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T04:15:00-08:00",
+      "updated": "2021-03-07T04:15:38-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/brushed-dc-electric-motor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6498649853119170535",
+      "title": "brushed DC electric motor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6498649853119170535/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE5MzM4OTM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "550284876910769450",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T04:08:00-08:00",
+      "updated": "2021-03-07T04:08:30-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/capacitor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/550284876910769450",
+      "title": "capacitor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/550284876910769450/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE4OTEwMTg3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3447867382173422114",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T03:58:00-08:00",
+      "updated": "2021-03-07T03:58:57-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/diode-bridge.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3447867382173422114",
+      "title": "diode bridge",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3447867382173422114/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE4MzM3MTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1145843900267040759",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T03:57:00-08:00",
+      "updated": "2021-03-07T03:57:17-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/dynamo.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1145843900267040759",
+      "title": "dynamo",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1145843900267040759/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE4MjM3MzQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6104987956392531032",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T03:55:00-08:00",
+      "updated": "2021-03-07T03:55:43-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/diode.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6104987956392531032",
+      "title": "diode",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6104987956392531032/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE4MTQzNjUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7724446817141684486",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T03:22:00-08:00",
+      "updated": "2021-03-07T03:22:34-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/inductor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7724446817141684486",
+      "title": "inductor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7724446817141684486/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE2MTU0NTQ3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3538530409334906776",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T03:18:00-08:00",
+      "updated": "2021-03-07T03:18:25-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/electrical-insulator.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3538530409334906776",
+      "title": "electrical insulator",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3538530409334906776/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE1OTA1NzU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8867064217555557276",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T03:05:00-08:00",
+      "updated": "2021-03-07T03:05:16-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/nortons-theorem.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8867064217555557276",
+      "title": "Norton's theorem",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8867064217555557276/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE1MTE2MzY2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8969494279218694830",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T03:02:00-08:00",
+      "updated": "2021-03-07T03:02:59-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/nuvistor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8969494279218694830",
+      "title": "nuvistor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8969494279218694830/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE0OTc5Njk4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5388966275510159473",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T02:59:00-08:00",
+      "updated": "2021-03-07T02:59:17-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/open-circuit-voltage.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5388966275510159473",
+      "title": "Open-circuit voltage",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5388966275510159473/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE0NzU3MDYzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3913123450614268557",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T02:56:00-08:00",
+      "updated": "2021-03-07T02:56:41-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/optical-fiber.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3913123450614268557",
+      "title": "optical fiber",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3913123450614268557/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE0NjAxMTg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5443801057039665779",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T02:49:00-08:00",
+      "updated": "2021-03-07T02:49:42-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/passivity.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5443801057039665779",
+      "title": "Passivity",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5443801057039665779/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE0MTgyNzE1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3112517210943414410",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T02:47:00-08:00",
+      "updated": "2021-03-07T02:47:28-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/pentagrid-converter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3112517210943414410",
+      "title": "pentagrid converter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3112517210943414410/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTE0MDQ4MTMxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "211584834897115494",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T02:45:00-08:00",
+      "updated": "2021-03-07T02:45:23-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/pentode.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/211584834897115494",
+      "title": "pentode",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/211584834897115494/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTEzOTIzNjk4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1265238435898059414",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T02:41:00-08:00",
+      "updated": "2021-03-07T02:41:50-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/phase-modulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1265238435898059414",
+      "title": "Phase modulation",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1265238435898059414/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTEzNzEwNjI1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7295054687279052643",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T02:37:00-08:00",
+      "updated": "2021-03-07T02:37:49-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/photodiode.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7295054687279052643",
+      "title": "photodiode",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7295054687279052643/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTEzNDY5OTgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "645357978481426325",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T02:33:00-08:00",
+      "updated": "2021-03-07T02:33:50-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/piezoelectric-motor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/645357978481426325",
+      "title": "piezoelectric motor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/645357978481426325/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTEzMjMwNzM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7751590470345194210",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T00:28:00-08:00",
+      "updated": "2021-03-07T00:28:52-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/pn-junction.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7751590470345194210",
+      "title": "p–n junction",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7751590470345194210/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTA1NzMyMTgxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "897199408768946899",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T00:24:00-08:00",
+      "updated": "2021-03-07T00:24:05-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/polyethylene.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/897199408768946899",
+      "title": "Polyethylene",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/897199408768946899/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTA1NDQ1OTczCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1306980541983034243",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T00:21:00-08:00",
+      "updated": "2021-03-07T00:21:32-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/polymer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1306980541983034243",
+      "title": "polymer",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1306980541983034243/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTA1MjkyODMwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7997868305552334412",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T00:17:00-08:00",
+      "updated": "2021-03-07T00:17:04-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/polyphase-system.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7997868305552334412",
+      "title": "polyphase system",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7997868305552334412/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTA1MDI0MzUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8658333611400079298",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T00:15:00-08:00",
+      "updated": "2021-03-07T00:15:05-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/polypropylene.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8658333611400079298",
+      "title": "Polypropylene",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8658333611400079298/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTA0OTA1NjUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3295538729712410074",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T00:12:00-08:00",
+      "updated": "2021-03-07T00:12:26-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/port-circuit-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3295538729712410074",
+      "title": "Port (circuit theory)",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3295538729712410074/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTA0NzQ2NTMwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4082597273717990974",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T00:02:00-08:00",
+      "updated": "2021-03-07T00:02:53-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/power-supply.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4082597273717990974",
+      "title": "power supply",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4082597273717990974/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTA0MTczMTUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7285000827775443878",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T20:37:00-08:00",
+      "updated": "2021-03-06T20:37:19-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/printed-circuit-board.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7285000827775443878",
+      "title": "printed circuit board",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7285000827775443878/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDkxODM5Mzc1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "737253210149019598",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T20:31:00-08:00",
+      "updated": "2021-03-06T20:31:52-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/push-switch-button.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/737253210149019598",
+      "title": "push switch (button)",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/737253210149019598/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDkxNTEyNDQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1790930662117654403",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T20:30:00-08:00",
+      "updated": "2021-03-06T20:30:01-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/pushpull-converter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1790930662117654403",
+      "title": "push–pull converter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1790930662117654403/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDkxNDAxOTcwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1366617077993768305",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T20:13:00-08:00",
+      "updated": "2021-03-06T20:13:11-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/reed-switch.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1366617077993768305",
+      "title": "reed switch",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1366617077993768305/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDkwMzkxODg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "63459580017788970",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T20:11:00-08:00",
+      "updated": "2021-03-06T20:11:43-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/regenerative-circuit.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/63459580017788970",
+      "title": "regenerative circuit",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/63459580017788970/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDkwMzAzMTk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9017508768053491768",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T19:58:00-08:00",
+      "updated": "2021-03-06T19:58:11-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/resettable-fuse.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/9017508768053491768",
+      "title": "resettable fuse",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/9017508768053491768/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDg5NDkxMjMzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2883528437956110130",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T19:55:00-08:00",
+      "updated": "2021-03-06T19:55:09-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/electrical-network.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2883528437956110130",
+      "title": "electrical network",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2883528437956110130/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDg5MzA5OTYyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "22943791521931077",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T19:53:00-08:00",
+      "updated": "2021-03-06T19:53:05-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/resistor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/22943791521931077",
+      "title": "resistor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/22943791521931077/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDg5MTg1OTg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6324758512556388865",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T19:43:00-08:00",
+      "updated": "2021-03-06T19:43:10-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/rg-6u.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6324758512556388865",
+      "title": "RG-6/U",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6324758512556388865/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDg4NTkwMjU0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3960341988703379525",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T19:39:00-08:00",
+      "updated": "2021-03-06T19:39:10-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/rlc-circuit.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3960341988703379525",
+      "title": "RLC circuit",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3960341988703379525/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDg4MzUwMDMwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3233655613849870976",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T19:35:00-08:00",
+      "updated": "2021-03-06T19:35:13-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/rotary-converter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3233655613849870976",
+      "title": "rotary converter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3233655613849870976/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDg4MTEzOTE1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6340864411691163221",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T09:39:00-08:00",
+      "updated": "2021-03-06T09:39:10-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/rotor-electric.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6340864411691163221",
+      "title": "Rotor (electric)",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6340864411691163221/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDUyMzUwNjU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8692734871490100617",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T08:05:00-08:00",
+      "updated": "2021-03-06T08:05:44-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/scott-t-transformer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8692734871490100617",
+      "title": "Scott-T transformer",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8692734871490100617/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ2NzQ0ODM3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4900462055281109095",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T08:04:00-08:00",
+      "updated": "2021-03-06T08:04:21-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/semiconductor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4900462055281109095",
+      "title": "semiconductor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4900462055281109095/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ2NjYxMDUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3263287227630276585",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:57:00-08:00",
+      "updated": "2021-03-06T07:57:31-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/shunt.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3263287227630276585",
+      "title": "shunt",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3263287227630276585/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ2MjUxMzQyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3306858336309140692",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:50:00-08:00",
+      "updated": "2021-03-06T07:50:22-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/signal.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3306858336309140692",
+      "title": "signal",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3306858336309140692/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ1ODIyMzE4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7175995320261449547",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:46:00-08:00",
+      "updated": "2021-03-06T07:46:46-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/signal-strength.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7175995320261449547",
+      "title": "signal strength",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7175995320261449547/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ1NjA2OTc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2781444349526010673",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:45:00-08:00",
+      "updated": "2021-03-06T07:45:35-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/signal-flow-graph.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2781444349526010673",
+      "title": "signal-flow graph",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2781444349526010673/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ1NTM1MjM4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8591828456964892754",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:42:00-08:00",
+      "updated": "2021-03-06T07:42:29-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/signal-to-noise-ratio.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8591828456964892754",
+      "title": "Signal-to-noise ratio",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8591828456964892754/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ1MzQ5MjUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4781416910992135236",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:38:00-08:00",
+      "updated": "2021-03-06T07:38:55-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/sine-wave.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4781416910992135236",
+      "title": "sine wave",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4781416910992135236/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ1MTM1NzUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "367543369626260388",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:32:00-08:00",
+      "updated": "2021-03-06T07:32:35-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/soldering.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/367543369626260388",
+      "title": "Soldering",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/367543369626260388/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ0NzU1MTI5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5068662896136782265",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:22:00-08:00",
+      "updated": "2021-03-06T07:22:54-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/solenoid.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5068662896136782265",
+      "title": "solenoid",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5068662896136782265/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQ0MTc0OTA3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5710528773440269178",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:18:00-08:00",
+      "updated": "2021-03-06T07:18:44-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/solid-state-electronics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5710528773440269178",
+      "title": "Solid-state electronics",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5710528773440269178/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQzOTI0MDkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7377471728428009649",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:14:00-08:00",
+      "updated": "2021-03-06T07:14:28-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/sound-recording-and-reproduction.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7377471728428009649",
+      "title": "Sound recording and reproduction",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7377471728428009649/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQzNjY4NDg4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4633049632387720615",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:08:00-08:00",
+      "updated": "2021-03-06T07:08:01-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/space-vector-modulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4633049632387720615",
+      "title": "Space vector modulation",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4633049632387720615/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQzMjgxMzUwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5080109406419559776",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T07:06:00-08:00",
+      "updated": "2021-03-06T07:06:17-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/spark-gap-transmitter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5080109406419559776",
+      "title": "spark-gap transmitter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5080109406419559776/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQzMTc3OTUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6844640114566075372",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T06:15:00-08:00",
+      "updated": "2021-03-06T06:15:51-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/state-space-representation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6844640114566075372",
+      "title": "state-space representation",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6844640114566075372/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDQwMTUxNTUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2495142744038534529",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T06:10:00-08:00",
+      "updated": "2021-03-06T06:10:11-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/static-var-compensator.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2495142744038534529",
+      "title": "static VAR compensator",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2495142744038534529/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM5ODExNTc1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3323967321760020934",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T06:06:00-08:00",
+      "updated": "2021-03-06T06:06:26-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/stator.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3323967321760020934",
+      "title": "stator",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3323967321760020934/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM5NTg2NTkyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4124772878164514298",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:52:00-08:00",
+      "updated": "2021-03-06T05:52:50-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/sulfur-hexafluoride-circuit-breakers.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4124772878164514298",
+      "title": "Sulfur hexafluoride circuit breakers",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4124772878164514298/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM4NzcwODI1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8652593533367613502",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:50:00-08:00",
+      "updated": "2021-03-06T05:50:01-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/sulfur-hexafluoride.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8652593533367613502",
+      "title": "Sulfur hexafluoride",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8652593533367613502/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM4NjAxNjEzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4007683196418089269",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:45:00-08:00",
+      "updated": "2021-03-06T05:45:53-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/superconductivity.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4007683196418089269",
+      "title": "Superconductivity",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4007683196418089269/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM4MzUzMDkwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "652190964442927943",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:42:00-08:00",
+      "updated": "2021-03-06T05:42:51-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/superheterodyne-receiver.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/652190964442927943",
+      "title": "superheterodyne receiver",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/652190964442927943/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM4MTcxMDk1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3566994984250783706",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:39:00-08:00",
+      "updated": "2021-03-06T05:39:56-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/switch.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3566994984250783706",
+      "title": "switch",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3566994984250783706/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM3OTk2MTgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5650001769751909179",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:35:00-08:00",
+      "updated": "2021-03-06T05:35:19-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/symbolic-circuit-analysis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5650001769751909179",
+      "title": "Symbolic circuit analysis",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5650001769751909179/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM3NzE5MzE0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3200542749259243875",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:32:00-08:00",
+      "updated": "2021-03-06T05:32:51-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/synchro.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3200542749259243875",
+      "title": "synchro",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3200542749259243875/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM3NTcxNDg1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5899984224704032665",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:29:00-08:00",
+      "updated": "2021-03-06T05:29:46-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/synchronous-electric-motor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5899984224704032665",
+      "title": "synchronous electric motor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5899984224704032665/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM3Mzg2ODU4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5238087558742049126",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T05:26:00-08:00",
+      "updated": "2021-03-06T05:25:59-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/system-on-chip.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5238087558742049126",
+      "title": "system on a chip",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5238087558742049126/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDM3MTU5ODQ3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2119086498066445007",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:46:00-08:00",
+      "updated": "2021-03-06T02:46:08-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/tesla-coil.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2119086498066445007",
+      "title": "Tesla coil",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2119086498066445007/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI3NTY4NDY2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9216314816036709693",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:42:00-08:00",
+      "updated": "2021-03-06T02:42:15-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/tetrode.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/9216314816036709693",
+      "title": "tetrode",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/9216314816036709693/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI3MzM1NTk0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2432261545058055949",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:39:00-08:00",
+      "updated": "2021-03-06T02:39:36-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/thermionic-emission.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2432261545058055949",
+      "title": "Thermionic emission",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2432261545058055949/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI3MTc2ODA5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "555155211603664274",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:38:00-08:00",
+      "updated": "2021-03-06T02:38:04-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/thermistor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/555155211603664274",
+      "title": "thermistor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/555155211603664274/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI3MDg0OTUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8370869967191134575",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:34:00-08:00",
+      "updated": "2021-03-06T02:34:09-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/thevenin-theorem.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8370869967191134575",
+      "title": "Thévenin theorem",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8370869967191134575/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI2ODQ5NDgwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "541321733869967009",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:29:00-08:00",
+      "updated": "2021-03-06T02:29:45-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/thyristor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/541321733869967009",
+      "title": "thyristor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/541321733869967009/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI2NTg1OTU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "876897249433493677",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:24:00-08:00",
+      "updated": "2021-03-06T02:24:46-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/topology-electrical-circuits.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/876897249433493677",
+      "title": "Topology electrical circuits",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/876897249433493677/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI2Mjg2OTA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3587116857275088967",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:22:00-08:00",
+      "updated": "2021-03-06T02:22:04-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/toroidal-inductors-and-transformers.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3587116857275088967",
+      "title": "Toroidal inductors and transformers",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3587116857275088967/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI2MTI0NzA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8857841062723972014",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:20:00-08:00",
+      "updated": "2021-03-06T02:20:27-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/torque.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8857841062723972014",
+      "title": "torque",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8857841062723972014/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI2MDI3ODQyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8280746159113482114",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:07:00-08:00",
+      "updated": "2021-03-06T02:07:08-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transceiver.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8280746159113482114",
+      "title": "transceiver",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8280746159113482114/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI1MjI4ODQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1778801385221089389",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T02:03:00-08:00",
+      "updated": "2021-03-06T02:03:44-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transfer-function.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1778801385221089389",
+      "title": "Transfer function",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1778801385221089389/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI1MDI0NzA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7546803091942626085",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:59:00-08:00",
+      "updated": "2021-03-06T01:59:34-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transformer-types.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7546803091942626085",
+      "title": "Transformer types",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7546803091942626085/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI0Nzc0NzQ0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1273390316818008192",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:54:00-08:00",
+      "updated": "2021-03-06T01:54:11-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transient-voltage-suppression.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1273390316818008192",
+      "title": "transient-voltage-suppression",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1273390316818008192/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI0NDUxMzQzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4392830354572515984",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:52:00-08:00",
+      "updated": "2021-03-06T01:52:15-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transistor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4392830354572515984",
+      "title": "transistor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4392830354572515984/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI0MzM1NTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8305704878191548224",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:48:00-08:00",
+      "updated": "2021-03-06T01:48:02-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transmission-line.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8305704878191548224",
+      "title": "transmission line",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8305704878191548224/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDI0MDgyNDIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2767588308781819349",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:44:00-08:00",
+      "updated": "2021-03-06T01:44:44-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transmission-system-operator.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2767588308781819349",
+      "title": "Transmission System Operator",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2767588308781819349/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIzODg0NDkzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2015808277831241482",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:42:00-08:00",
+      "updated": "2021-03-06T01:42:37-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transmitter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2015808277831241482",
+      "title": "transmitter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2015808277831241482/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIzNzU3MDU1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1670804746335225364",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:37:00-08:00",
+      "updated": "2021-03-06T01:37:07-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/traveling-wave-tube.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1670804746335225364",
+      "title": "traveling-wave tube",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1670804746335225364/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIzNDI3Mjc2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7094362678543581449",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:30:00-08:00",
+      "updated": "2021-03-06T01:30:33-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/triac.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7094362678543581449",
+      "title": "TRIAC",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7094362678543581449/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIzMDMzMDQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4506835692665297914",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:25:00-08:00",
+      "updated": "2021-03-06T01:25:07-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/trigger-transformer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4506835692665297914",
+      "title": "trigger transformer",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4506835692665297914/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIyNzA3NzE2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6340474415865207182",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:23:00-08:00",
+      "updated": "2021-03-06T01:23:50-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/triode.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6340474415865207182",
+      "title": "triode",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6340474415865207182/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIyNjMwNjc5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "150523752100010739",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:20:00-08:00",
+      "updated": "2021-03-06T01:20:09-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/lc-circuit.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/150523752100010739",
+      "title": "LC circuit",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/150523752100010739/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIyNDA5MjAyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5738987853251627073",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:16:00-08:00",
+      "updated": "2021-03-06T01:16:57-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/two-phase-electrical-power.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5738987853251627073",
+      "title": "Two-phase electrical power",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5738987853251627073/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIyMjE3MDIzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1822458303965221218",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T01:15:00-08:00",
+      "updated": "2021-03-06T01:15:30-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/two-port-network.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1822458303965221218",
+      "title": "two-port network",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1822458303965221218/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDIyMTMwNTY3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "587243119097944674",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T00:39:00-08:00",
+      "updated": "2021-03-06T00:39:55-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/capacitors-type.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/587243119097944674",
+      "title": "Capacitors type",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/587243119097944674/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE5OTk1MTIxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4915461529773348819",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T00:25:00-08:00",
+      "updated": "2021-03-06T00:25:12-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/ultrasonic-motor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4915461529773348819",
+      "title": "ultrasonic motor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4915461529773348819/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE5MTEyNzgzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7625870827593421563",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T00:23:00-08:00",
+      "updated": "2021-03-06T00:23:15-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/unijunction-transistor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7625870827593421563",
+      "title": "unijunction transistor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7625870827593421563/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE4OTk1ODU0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8218088005974836476",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-06T00:20:00-08:00",
+      "updated": "2021-03-06T00:20:34-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/twisted-pair.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8218088005974836476",
+      "title": "Twisted pair",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8218088005974836476/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE4ODM0MzQ5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1727205777311713225",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:49:00-08:00",
+      "updated": "2021-03-05T23:49:11-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/vacuum-tube.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1727205777311713225",
+      "title": "vacuum tube",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1727205777311713225/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE2OTUxNjI4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6458563658858391852",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:47:00-08:00",
+      "updated": "2021-03-05T23:47:09-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/vacuum-variable-capacitor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6458563658858391852",
+      "title": "vacuum variable capacitor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6458563658858391852/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE2ODI5MTE2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4455288167428623364",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:45:00-08:00",
+      "updated": "2021-03-05T23:45:25-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/variable-capacitor.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4455288167428623364",
+      "title": "variable capacitor",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4455288167428623364/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE2NzI1MDg5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7207436191628887156",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:42:00-08:00",
+      "updated": "2021-03-05T23:42:08-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/variable-frequency-drive.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7207436191628887156",
+      "title": "variable-frequency drive",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7207436191628887156/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE2NTI4Njk3Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4079419724510855251",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:39:00-08:00",
+      "updated": "2021-03-05T23:39:54-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/autotransformer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4079419724510855251",
+      "title": "autotransformer",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4079419724510855251/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE2Mzk0MDc1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5009172728921940713",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:36:00-08:00",
+      "updated": "2021-03-05T23:36:40-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/varicap-diode.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5009172728921940713",
+      "title": "varicap diode",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5009172728921940713/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE2MjAwMTAzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5653181279140720095",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:31:00-08:00",
+      "updated": "2021-03-05T23:31:59-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/very-large-scale-integration.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5653181279140720095",
+      "title": "Very large-scale integration",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5653181279140720095/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE1OTE5NzY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4658331066258520987",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:29:00-08:00",
+      "updated": "2021-03-05T23:29:27-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/volt.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4658331066258520987",
+      "title": "volt",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4658331066258520987/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE1NzY3OTU5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7973562529716453777",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:26:00-08:00",
+      "updated": "2021-03-05T23:26:57-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/voltage-controller.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7973562529716453777",
+      "title": "voltage controller",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7973562529716453777/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE1NjE3MTQ1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8201042222754632805",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:24:00-08:00",
+      "updated": "2021-03-05T23:24:34-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/voltage-divider.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8201042222754632805",
+      "title": "voltage divider",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8201042222754632805/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE1NDc0MzUzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7174996200064576352",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:20:00-08:00",
+      "updated": "2021-03-05T23:20:14-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/voltage-doubler.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7174996200064576352",
+      "title": "voltage doubler",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7174996200064576352/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE1MjE0NDYzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "485763190254052858",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:18:00-08:00",
+      "updated": "2021-03-05T23:18:32-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/voltage-regulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/485763190254052858",
+      "title": "voltage regulation",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/485763190254052858/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE1MTEyNTUxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7665146694326861618",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:16:00-08:00",
+      "updated": "2021-03-05T23:16:53-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/voltage-regulator.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7665146694326861618",
+      "title": "voltage regulator",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7665146694326861618/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE1MDEzMjIwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7930414616223749162",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:15:00-08:00",
+      "updated": "2021-03-05T23:15:18-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/voltage-source.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7930414616223749162",
+      "title": "voltage source",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7930414616223749162/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE0OTE4OTc0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "759766533454948090",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:12:00-08:00",
+      "updated": "2021-03-05T23:12:17-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/voltage.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/759766533454948090",
+      "title": "Voltage",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/759766533454948090/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE0NzM3NzcwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5487443766927844924",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:10:00-08:00",
+      "updated": "2021-03-05T23:10:32-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/transconductance.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5487443766927844924",
+      "title": "Transconductance",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5487443766927844924/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE0NjMyNDk2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5029768608717635436",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:06:00-08:00",
+      "updated": "2021-03-05T23:06:40-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/volt-ampere.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5029768608717635436",
+      "title": "volt-ampere",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/5029768608717635436/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE0NDAwMjI2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8000951495403761386",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:05:00-08:00",
+      "updated": "2021-03-05T23:05:33-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/voltmeter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8000951495403761386",
+      "title": "voltmeter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8000951495403761386/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE0MzMzNjE0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3514241489313245669",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:02:00-08:00",
+      "updated": "2021-03-05T23:02:36-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/volumetric-flow-rate.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3514241489313245669",
+      "title": "volumetric flow rate",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3514241489313245669/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE0MTU2MTcwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3474501722650304770",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T23:00:00-08:00",
+      "updated": "2021-03-05T23:00:45-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/ward-leonard-control.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3474501722650304770",
+      "title": "Ward Leonard control",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/3474501722650304770/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDE0MDQ1ODY4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7445614045315668250",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:59:00-08:00",
+      "updated": "2021-03-05T22:59:23-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/watt.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7445614045315668250",
+      "title": "watt",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7445614045315668250/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEzOTYzNzUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7822872115030597840",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:57:00-08:00",
+      "updated": "2021-03-05T22:57:15-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/wattmeter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7822872115030597840",
+      "title": "wattmeter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7822872115030597840/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEzODM1NDY4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2918923655342867703",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:55:00-08:00",
+      "updated": "2021-03-05T22:55:20-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/waveguide.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2918923655342867703",
+      "title": "waveguide",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2918923655342867703/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEzNzIwNjA1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8654514985185723710",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:50:00-08:00",
+      "updated": "2021-03-05T22:50:55-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/wiener-filter.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8654514985185723710",
+      "title": "Wiener filter",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8654514985185723710/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEzNDU1MzA4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7833511388266063779",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:44:00-08:00",
+      "updated": "2021-03-05T22:44:17-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/williams-tube.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7833511388266063779",
+      "title": "Williams tube",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7833511388266063779/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEzMDU3OTEwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8866680264434159609",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:40:00-08:00",
+      "updated": "2021-03-05T22:40:59-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/wind-speed.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8866680264434159609",
+      "title": "wind speed",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8866680264434159609/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEyODU5Njg5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "382966957372946401",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:37:00-08:00",
+      "updated": "2021-03-05T22:37:43-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/wire.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/382966957372946401",
+      "title": "wire",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/382966957372946401/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEyNjYzOTY0Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2394255869779950740",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:36:00-08:00",
+      "updated": "2021-03-05T22:36:20-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/wireless-network.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2394255869779950740",
+      "title": "wireless network",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/2394255869779950740/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEyNTgwNDQxCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4109445292264374938",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:34:00-08:00",
+      "updated": "2021-03-05T22:34:26-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/wireless-telegraphy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4109445292264374938",
+      "title": "Wireless telegraphy",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4109445292264374938/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEyNDY2Njg2Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6557853668025137624",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:28:00-08:00",
+      "updated": "2021-03-05T22:28:08-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/y-transform.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6557853668025137624",
+      "title": " Y-Δ transform",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/6557853668025137624/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDEyMDg4MzYwCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1194864983751281313",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:25:00-08:00",
+      "updated": "2021-03-05T22:25:31-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/z80.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1194864983751281313",
+      "title": "Z80",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1194864983751281313/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDExOTMxMDA5Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1609463557432006153",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:21:00-08:00",
+      "updated": "2021-03-05T22:21:36-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/zener-diode.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1609463557432006153",
+      "title": "Zener diode",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/1609463557432006153/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDExNjk2NTUyCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7751859310514719003",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:19:00-08:00",
+      "updated": "2021-03-05T22:19:42-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/zigzag-transformer.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7751859310514719003",
+      "title": "zigzag transformer",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/7751859310514719003/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDExNTgyNTc4Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8108311290875615258",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-05T22:15:00-08:00",
+      "updated": "2021-03-05T22:15:23-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/z-transform.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8108311290875615258",
+      "title": " Z-transform",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/8108311290875615258/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MDExMzIzODEzCm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
     {
       "kind": "blogger#post",
       "id": "1433659981496752371",
