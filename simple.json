@@ -1,7 +1,8 @@
 {
   "kind": "blogger#postList",
   "items": [
-    "kind": "blogger#post",
+    {
+      "kind": "blogger#post",
       "id": "4074843339965340920",
       "blog": {
         "id": "7635305282611265753"
