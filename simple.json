@@ -1,7 +1,31 @@
 {
   "kind": "blogger#postList",
   "items": [
-    
+    "kind": "blogger#post",
+      "id": "4074843339965340920",
+      "blog": {
+        "id": "7635305282611265753"
+      },
+      "published": "2021-03-07T23:11:00-08:00",
+      "updated": "2021-03-07T23:11:50-08:00",
+      "url": "http://electricalengineeringfree.blogspot.com/2021/03/amplifier.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4074843339965340920",
+      "title": "amplifier",
+      "content": "",
+      "author": {
+        "id": "13936429045833030299",
+        "displayName": "yana pesek",
+        "url": "https://www.blogger.com/profile/13936429045833030299",
+        "image": {
+          "url": "//4.bp.blogspot.com/-dj7EM2dHm1s/U6kkFEp0e2I/AAAAAAAABX8/igCotqsld10/s35/10489774_750501694971011_7926947620058211059_n.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7635305282611265753/posts/4074843339965340920/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjE1MTIxMDE1NTY1Cm9mZnNldDogLTI4ODAwMDAwCg\""
+    },
     {
       "kind": "blogger#post",
       "id": "3398396846264513163",
